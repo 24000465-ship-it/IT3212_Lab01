@@ -25,4 +25,4 @@ LAB 1 - LAM QUEN VISUAL STUDIO VA LAP TRINH CONSOLE (IT3212)
 3. Phan da hoan thanh
    - Bai 1 - 5 (co huong dan): hoan thanh.
    - Bai 6 - 10 (tu thuc hien): hoan thanh.
-   - Bao cao: BaoCao_Lab01.docx (kem anh chup ket qua tung bai).
+   - Bao cao: 24000465_LeDucBinh_Lab1.docx (kem anh chup ket qua tung bai).
